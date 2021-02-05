@@ -1,0 +1,54 @@
+body{
+	text-align: center;
+	background-color: gainsboro;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+h1{
+	font-size:40px;
+	letter-spacing:3px;
+	color:black;
+}
+
+img{
+	height:250px;
+	width: 220px;
+	object-fit: cover;
+	border-radius: 75%; 
+
+}
+
+h2{
+	color:rgb(30, 30, 30);
+	text-decoration: underline;
+}
+
+ul{
+	list-style: none;
+	padding-left: 0; 
+}
+
+.list-inline li{
+	display: inline;
+}
+
+div{
+	background-color: darkgray;
+	padding: 20px;
+	width: 700px;
+	margin:10px auto;
+	text-align: center; 
+	border-radius: 8px;
+	box-shadow: 3px 5px 10px rgb(200, 200, 200 / 10%);
+}
+
+
+i{
+	font-size: 48px;
+	color: black;
+}
+
+.espace-pro li{
+	margin: 7px auto; 
+}
